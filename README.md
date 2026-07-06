@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=du3a5&show_icons=true&theme=vue-dark&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0d1117&border_color=8B5E3C" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=du3a5&theme=vue-dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=du3a5&theme=vue-dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=du3a5&layout=compact&theme=vue-dark&title_color=D4AF37&text_color=ffffff&bg_color=0d1117&border_color=8B5E3C" width="48%"/>
 
