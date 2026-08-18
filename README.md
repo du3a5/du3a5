@@ -11,9 +11,9 @@
 - 🎓 Software Engineering graduate — **GPA 3.99/4.00**, Graduated First in Class, Dean's Honour List
 - 💻 Frontend Developer passionate about building responsive, accessible, and visually compelling interfaces
 - 🌱 Currently strengthening my skills in **React.js** and **Node.js**
-- 🛠️ Built projects using HTML5, CSS3, JavaScript (ES6+), REST APIs, and Web Storage
-- 🤖 Completed an RPA Developer internship at Advansys, working with UiPath automation
-- 📚 Always learning — recently completed courses in SQL, Git & GitHub, and modern JavaScript
+- 🛠️ Built and deployed multiple end-to-end projects using HTML5, CSS3, JavaScript (ES6+), React, and Tailwind CSS
+- ⚙️ Completed hands-on training in RPA (UiPath) at INTTO Technology and Odoo Administration at Rock
+- 📚 Always learning — recently completed courses in SQL, Git & GitHub, modern JavaScript, and Claude 101
 - ⚡ Fun fact: I enjoy cooking and staying active through fitness
 
 ### Connect With Me
@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
